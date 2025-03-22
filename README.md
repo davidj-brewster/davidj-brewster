@@ -27,13 +27,14 @@ I'm also researching self-correcting LLMs and AI-driven reasoning frameworks.
 
 ## Technical Skills
 - **Languages**: Python, SQL, Shell/Bash, HCL (Terraform)
-- **Cloud Platforms**: GCP, AWS
-- **Infrastructure**: Kubernetes, Docker, Terraform
-- **ML/AI**: PyTorch, scikit-learn, image processing libraries
-- **Medical Imaging**: DICOM, NiFTI, FreeSurfer, FSL, ANTs
+- **Cloud**: GCP
+- **Operating Systems**: Ubuntu, MacOS
+- **Infrastructure**: Kubernetes, Helm, Docker, Terraform, Puppet, ArgoCD
+- **ML/AI**: PyTorch, scikit-learn, pillow, image processing libraries
+- **Medical Imaging**: DICOM, NiFTI, FreeSurfer, FSL, ANTs, c3d
 
 ## Background
-With degrees in Mathematics and Computer Science, I combine theoretical foundations with practical experience across Finance, Startups, and Education sectors. I enjoy diving into complex problems at the intersection of engineering, AI, and problem-solving.
+With degrees in Mathematics and Computer Science, I combine theoretical foundations with practical experience. I enjoy diving into complex problems at the intersection of engineering, AI, and problem-solving and found quite a lot of passion recently in medical AI.
 
 ## Linkedin
 
