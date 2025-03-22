@@ -11,37 +11,23 @@ I'm also researching self-correcting LLMs and AI-driven reasoning frameworks.
 
 ## Featured Projects
 
+### Infrastructure & DevOps
+- **terraform-gke-scripts** - Terraform scripts for GCP/GKE orchestration automation
+- **temporalio-video-splitter** - Example project using Temporal.io for workflow orchestration
+
+### AI & Automation
+- **autoadaptive-multi-ai-metaprompting** - Research on AI Meta-Prompting and AI-to-AI engagement
+- **video-to-keyframes** - Identify and extract key-frames from videos based on motion and quality
+
 ### Medical AI & Neuroimaging
 - **agentic-e2e-dicom-medical-pipeline** - Multi-agentic adaptive FreeSurfer/FSL system for DiCOM and NiFTi processing
 - **brainMRI-ants-e2e-pipeline** - DiCOM to NiFTI processing pipeline using ANTs
 - **hippocampus-morphology-segmentation** - Hippocampus segmentation using preprocessing and morphology methods
 - **video-to-3d-brain** - 3D skull reconstruction using Intel's Monocular Depth Estimation
 
-### AI & Automation
-- **autoadaptive-multi-ai-metaprompting** - Research on AI Meta-Prompting and AI-to-AI engagement
-- **video-to-keyframes** - Identify and extract key-frames from videos based on motion and quality
-
-### Infrastructure & DevOps
-- **terraform-gke-scripts** - Terraform scripts for GCP/GKE orchestration automation
-- **temporalio-video-splitter** - Example project using Temporal.io for workflow orchestration
-
-## Technical Skills
-- **Languages**: Python, SQL, Shell/Bash, HCL (Terraform)
-- **Cloud**: GCP
-- **Operating Systems**: Ubuntu, MacOS
-- **Infrastructure**: Kubernetes/GKE, Helm, Docker, Terraform, Puppet, ArgoCD
-- **Data**: Postgresql, MongoDB, MariaDB, Sybase ASE, Oracle, Hadoop / HDP, Hive
-- **CI/CD**: Nexus, Jenkins, GitHub, GitHub Actions
-- **ML/AI**: PyTorch, scikit-learn, pillow, image processing libraries
-- **Medical Imaging**: DICOM, NiFTI, FreeSurfer, FSL, ANTs, c3d
-
-## Background
-With degrees in Mathematics and Computer Science, I combine theoretical foundations with practical experience. I enjoy diving into complex problems at the intersection of engineering, AI, and problem-solving and found quite a lot of passion recently in medical AI.
-
 ## Linkedin
 
 https://www.linkedin.com/in/david-brewster-0067a516/
-
 
 <!--
 **davidj-brewster/davidj-brewster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
