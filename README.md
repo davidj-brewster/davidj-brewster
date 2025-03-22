@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Professional Background
-Principal DevOps Engineer working to connect the world of science at ResearchGate in Berlin. I have expertise in backend softwae and database development, cloud transformation, infrastructure performance and cost optimization, and platform engineering/SRE/DevOps. My work typically combines hands-on development with strategic leadership across cloud environments (GCP, AWS) and on-premises infrastructure.
+Principal DevOps Engineer working to connect the world of science at ResearchGate in Berlin. I have expertise in backend softwae and database development, cloud transformation, infrastructure performance and cost optimization, and platform engineering/SRE/DevOps. My work typically combines hands-on development with strategic leadership across cloud (mostly GCP) and on-premises installs.
 
 Beyond DevOps, most of my GitHub projects are the results of independent research in Medical AI and neuroimaging over the last few months, focusing on:
 - Brain MRI processing, segmentation, and anomaly detection
@@ -22,14 +22,16 @@ I'm also researching self-correcting LLMs and AI-driven reasoning frameworks.
 - **video-to-keyframes** - Identify and extract key-frames from videos based on motion and quality
 
 ### Infrastructure & DevOps
-- **terraform-gke-scripts** - Terraform scripts for GCP/GKE orchestration
+- **terraform-gke-scripts** - Terraform scripts for GCP/GKE orchestration automation
 - **temporalio-video-splitter** - Example project using Temporal.io for workflow orchestration
 
 ## Technical Skills
 - **Languages**: Python, SQL, Shell/Bash, HCL (Terraform)
 - **Cloud**: GCP
 - **Operating Systems**: Ubuntu, MacOS
-- **Infrastructure**: Kubernetes, Helm, Docker, Terraform, Puppet, ArgoCD
+- **Infrastructure**: Kubernetes/GKE, Helm, Docker, Terraform, Puppet, ArgoCD
+- **Data**: Postgresql, MongoDB, MariaDB, Sybase ASE, Oracle, Hadoop / HDP, Hive
+- **CI/CD**: Nexus, Jenkins, GitHub, GitHub Actions
 - **ML/AI**: PyTorch, scikit-learn, pillow, image processing libraries
 - **Medical Imaging**: DICOM, NiFTI, FreeSurfer, FSL, ANTs, c3d
 
