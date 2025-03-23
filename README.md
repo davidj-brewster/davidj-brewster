@@ -7,8 +7,8 @@ Beyond DevOps, most of my GitHub projects are the results of independent researc
 - Brain MRI processing, segmentation, and anomaly detection
 - Custom 2D/3D deep learning models for medical imaging
 - Integration of open-source neuroimaging tools
-- 
-I'm also researching self-correcting/adaptively meta-prompting (pairs of) LLMs and AI-driven reasoning frameworks which I think will supercede pure model strength in a very short period of time.
+  
+I'm also researching self-correcting & adaptively meta-prompting (pairs of) LLMs with AI-driven reasoning frameworks which I think will supercede pure model strength in a very short period of time - and generating "arbiter" meta-prompts to evaluate model performance objectively.
 
 ## Featured Projects
 
