@@ -20,9 +20,8 @@ I'm also researching self-correcting & adaptively meta-prompting (pairs of) LLMs
 - **[autoadaptive-multi-ai-metaprompting](https://github.com/davidj-brewster/autoadaptive-multi-ai-metaprompting)** - Research on AI Meta-Prompting and AI-to-AI engagement
 - **[video-to-keyframes](https://github.com/davidj-brewster/video-to-keyframes)** - Identify and extract key-frames from videos based on motion and quality
 
-### Medical AI & Neuroimaging
+### AI & Neuroimaging
 - **[agentic-e2e-dicom-medical-pipeline](https://github.com/davidj-brewster/agentic-e2e-dicom-medical-pipeline)** - Multi-agentic adaptive FreeSurfer/FSL system for DiCOM and NiFTi processing
-- **[brainMRI-ants-e2e-pipeline](https://github.com/davidj-brewster/brainMRI-ants-e2e-pipeline)** - DiCOM to NiFTI processing pipeline using ANTs
 - **[hippocampus-morphology-segmentation](https://github.com/davidj-brewster/hippocampus-morphology-segmentation)** - Hippocampus segmentation using preprocessing and morphology methods
 - **[video-to-3d-brain](https://github.com/davidj-brewster/video-to-3d-brain)** - 3D skull reconstruction using Intel's Monocular Depth Estimation
 
