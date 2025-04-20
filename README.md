@@ -17,7 +17,7 @@ I'm also researching self-correcting & adaptively meta-prompting (pairs of) LLMs
 - **[temporalio-video-splitter](https://github.com/davidj-brewster/temporalio-video-splitter)** - Example project using Temporal.io for workflow orchestration
 
 ### AI & Automation
-- **[autoadaptive-multi-ai-metaprompting](https://github.com/davidj-brewster/autoadaptive-multi-ai-metaprompting)** - Research on AI Meta-Prompting and AI-to-AI engagement
+- **[multi-llm-chat](https://github.com/davidj-brewster/multi-llm-chat)** - Self-adaptive AI Meta-Prompting and AI-to-AI chats, including multimodal and AI "personas". The results are occasionally..hilarious!
 - **[video-to-keyframes](https://github.com/davidj-brewster/video-to-keyframes)** - Identify and extract key-frames from videos based on motion and quality
 
 ### AI & Neuroimaging
