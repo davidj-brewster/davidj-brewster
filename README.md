@@ -25,6 +25,9 @@ I'm also researching self-correcting & adaptively meta-prompting (pairs of) LLMs
 - **[hippocampus-morphology-segmentation](https://github.com/davidj-brewster/hippocampus-morphology-segmentation)** - Hippocampus segmentation using preprocessing and morphology methods
 - **[video-to-3d-brain](https://github.com/davidj-brewster/video-to-3d-brain)** - 3D skull reconstruction using Intel's Monocular Depth Estimation
 
+### Med-AI
+- **[Brainstemx-full](https://github.com/myzteryneuro-img/brainstemx-full)** - Computational framework for detailed hyperintensity detection in subcortical brain regions like the brainstem, which are traditionally difficult for radiologists to assess
+
 ### Because I can
 - **[polarECGvis](https://github.com/davidj-brewster/polarecgvis)** - Visualise ECG, Heart Rate and extrapolated Breathing Rate from Polar H10 chest straps!
 
