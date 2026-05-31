@@ -26,9 +26,8 @@ I'm also researching self-correcting & adaptively meta-prompting (pairs of) LLMs
 - **[video-to-3d-brain](https://github.com/davidj-brewster/video-to-3d-brain)** - 3D skull reconstruction using Intel's Monocular Depth Estimation
 
 ### Med-AI
-- **[Brainstemx-full](https://github.com/myzteryneuro-img/brainstemx-full)** - Computational framework for detailed hyperintensity detection in subcortical brain regions like the brainstem, which are traditionally difficult for radiologists to assess
-
-### Because I can
+- **[Brainstemx-full](https://github.com/myztery-neuroimg/brainstemx-full)** - Computational framework for detailed hyperintensity detection in subcortical brain regions like the brainstem, which are traditionally difficult for radiologists to assess
+- **[Brainstemx](https://github.com/myztery-neuroimg/brainstemx)** - Pythonic implementation of the above
 - **[polarECGvis](https://github.com/davidj-brewster/polarecgvis)** - Visualise ECG, Heart Rate and extrapolated Breathing Rate from Polar H10 chest straps!
 
 ## Linkedin
