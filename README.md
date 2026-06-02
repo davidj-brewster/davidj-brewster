@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Professional Background
-I'm a Principal DevOps Engineer working to connect the world of science at ResearchGate in Berlin. I have expertise in backend software and database development, cloud transformation, infrastructure performance, and automation. 
+I'm a senior DevOps Engineer in Berlin. I have expertise in backend software and database development, cloud transformation, infrastructure performance, and automation. 
 
 Beyond DevOps, most of my GitHub projects are the results of independent research in Medical AI and neuroimaging over the last few months, focusing on:
 - Brain MRI processing, segmentation, and anomaly detection
